@@ -13,7 +13,5 @@ public class CreateChannel {
         if (x==0){
          System.out.println("equal");
 }
-             x=0;
-
-    }
+ }
 }
